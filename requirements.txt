@@ -1,0 +1,4 @@
+# Librerias necesarias para leer el archivo de Excel.
+# Instalar con:  pip install -r requirements.txt
+pandas
+openpyxl
